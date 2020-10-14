@@ -1,6 +1,9 @@
 # sampleapp
 
-A new Flutter project.
+A Sample Flutter Demo Application.
+
+# output
+[!image](https://i.imgur.com/yF6q2qX.png)
 
 ## Getting Started
 
