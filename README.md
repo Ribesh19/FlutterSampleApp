@@ -3,7 +3,7 @@
 A Sample Flutter Demo Application.
 
 # output
-[!image](https://i.imgur.com/yF6q2qX.png)
+![alt text](https://i.imgur.com/yF6q2qX.png)
 
 ## Getting Started
 
